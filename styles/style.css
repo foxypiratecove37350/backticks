@@ -1,0 +1,19 @@
+body {
+	background-color: #edd84b;
+	color: #333331;
+	font-family: "consolas", monospace;
+	font-weight: normal;
+}
+
+pre {
+	white-space: pre-wrap;
+}
+
+a[href] {
+	color: #0000b1;
+	text-decoration: none;
+}
+
+a[href]:hover {
+	text-decoration: underline;
+}
